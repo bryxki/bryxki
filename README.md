@@ -1,6 +1,5 @@
 ### Hi there! 👋 I'm Bryan [bryxki]
 
-### I'm a Fullstack Web Developer with 3 years of experience.
 - 👨‍💻 I’m currently working on Point of Sales, Inventory Management and Accounting Systems.
 - 🔍 I’m looking to collaborate on projects involving financial analysis and data analytics.
 - 😍 I’d be happy to work with business domain experts, let's make an impact together in the field of software engineering.
@@ -24,3 +23,16 @@
 
 ---
 
+### I'm a Fullstack Web Developer with 3 years of experience.
+
+
+- 🧠 Back End Technologies:
+    - ☑️ C#, ASP.Net
+    - ☑️ PHP, Laravel
+    - ☑️ Node.Js, Expressjs
+- 🧠 Front End Technologies:
+    - ☑️ HTML5, CSS3, Bootstrap4, Javascript
+    - ☑️ React.Js, Redux, Next.Js
+    - ☑️ MERN stack
+
+<br />
