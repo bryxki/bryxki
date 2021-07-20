@@ -10,6 +10,6 @@
 
 [<img align="left" alt="bryan-facebook" width="50px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png"/>](https://www.facebook.com/bryxki/)
 [<img align="left" alt="bryan-linkedin" width="50px" src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/bryan-babon-31813190/)
-[<img align="left" alt="bryan-instagram" width="50px" src="img.icons8.com/fluent/50/000000/instagram-new.png"/>](https://www.instagram.com/bryxki/)
+[<img align="left" alt="bryan-instagram" width="50px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"/>](https://www.instagram.com/bryxki/)
 <br/>
 
