@@ -17,8 +17,11 @@
 ---
 
 ### Contact me:
+[<div style="display:inline;">
 ##### [brianzkee870@gmail.com](mailto:brianzkee870@gmail.com)
 [<img align="left" alt="bryan messenger" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-messenger--v2.png"/>](https://www.messenger.com/t/1705179259767645)
+</div>]
+
 <br/>
 
 ---
