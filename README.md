@@ -8,14 +8,18 @@
 
 ### Connect with me: 
 
-[<img align="left" alt="bryan-facebook" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png"/>](https://www.facebook.com/bryxki/)
-[<img align="left" alt="bryan-linkedin" width="30px" src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/bryan-babon-31813190/)
-[<img align="left" alt="bryan-instagram" width="30px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"/>](https://www.instagram.com/bryxki/)
+[<img align="left" alt="bryan facebook" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png"/>](https://www.facebook.com/bryxki/)
+[<img align="left" alt="bryan linkedin" width="30px" src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/bryan-babon-31813190/)
+[<img align="left" alt="bryan instagram" width="30px" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"/>](https://www.instagram.com/bryxki/)
 
 <br/>
 
 ---
 
 ### Contact me:
-### [brianzkee870@gmail.com](mailto:brianzkee870@gmail.com)
+##### [brianzkee870@gmail.com](mailto:brianzkee870@gmail.com)
+[<img align="left" alt="bryan messenger" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-messenger--v2.png"/>](https://www.messenger.com/t/1705179259767645)
 <br/>
+
+---
+
