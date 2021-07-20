@@ -3,7 +3,7 @@
 ### I'm a Fullstack Web Developer with 3 years of experience.
 - 👨‍💻 I’m currently working on Point of Sales, Inventory Management and Accounting Systems.
 - 🔍 I’m looking to collaborate on projects involving financial analysis and data analytics.
-- 😍 I’d be happy to work with people who have business domain experties and make an impact together in the field of software engineering.
+- 😍 I’d be happy to work with business domain experts, let's make an impact together in the field of software engineering.
 - 💬 Consult me about APIs, back end modelling, databases, business reporting and business intellegence.
 
 ### Connect with me: 
