@@ -5,13 +5,11 @@
 - 😍 I’d be happy to work with business domain experts, let's make an impact together in the field of software engineering.
 - 💬 Consult me about APIs, back end modelling, databases, business reporting and business intellegence.
 
-
 <br/>
 
 ---
 
 ### I'm a Fullstack Web Developer.
-
 
 - 📚 Back End Technologies:
     - ☑️ C#, ASP.Net
