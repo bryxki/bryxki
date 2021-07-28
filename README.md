@@ -5,6 +5,26 @@
 - 😍 I’d be happy to work with business domain experts, let's make an impact together in the field of software engineering.
 - 💬 Consult me about APIs, back end modelling, databases, business reporting and business intellegence.
 
+
+<br/>
+
+---
+
+### I'm a Fullstack Web Developer.
+
+
+- 🧠 Back End Technologies:
+    - ☑️ C#, ASP.Net
+    - ☑️ PHP, Laravel
+    - ☑️ Expressjs
+- 🧠 Front End Technologies:
+    - ☑️ HTML5, CSS3, Bootstrap4, Javascript
+    - ☑️ React.Js, Redux, Next.Js
+    - ☑️ MERN stack
+    - 
+
+<br/>
+
 ### Connect with me: 
 
 [<img align="left" alt="bryan facebook" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png"/>](https://www.facebook.com/bryxki/)
@@ -18,21 +38,5 @@
 ### Contact me:
 [<img align="left" alt="bryan gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>](mailto:brianzkee870@gmail.com)
 [<img align="left" alt="bryan messenger" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-messenger--v2.png"/>](https://www.messenger.com/t/1705179259767645)
-
-<br/>
-
----
-
-### I'm a Fullstack Web Developer with 3 years of experience.
-
-
-- 🧠 Back End Technologies:
-    - ☑️ C#, ASP.Net
-    - ☑️ PHP, Laravel
-    - ☑️ Node.Js, Expressjs
-- 🧠 Front End Technologies:
-    - ☑️ HTML5, CSS3, Bootstrap4, Javascript
-    - ☑️ React.Js, Redux, Next.Js
-    - ☑️ MERN stack
 
 <br />
