@@ -13,11 +13,11 @@
 ### I'm a Fullstack Web Developer.
 
 
-- 🧠 Back End Technologies:
+- 📚 Back End Technologies:
     - ☑️ C#, ASP.Net
     - ☑️ PHP, Laravel
     - ☑️ Expressjs
-- 🧠 Front End Technologies:
+- 📚 Front End Technologies:
     - ☑️ HTML5, CSS3, Bootstrap4, Javascript
     - ☑️ React.Js, Redux, Next.Js
     - ☑️ MERN stack
