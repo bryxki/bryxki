@@ -10,7 +10,7 @@
 ### I'm a Fullstack Web Developer.
 
 - 📚 Technologies:
-    - ☑️ HTML5, CSS3, Bootstrap 5, Javascript, ES6, TypeScript, JQuery
+    - ☑️ HTML5, CSS3, Bootstrap 5, Javascript, TypeScript, JQuery
     - ☑️ React.Js, Redux, Next.Js
     - ☑️ VB.Net, C#, Java, PHP
     - ☑️ ASP.Net, .NET Core, Laravel, Node.Js, Express.Js
@@ -35,6 +35,7 @@
 - 📚 Other Knowledge:
     - ☑️ APIs, REST API
     - ☑️ AJAX, JSON
+    - ☑️ Test Driven Development
     - ☑️ Server Side Redering
     - ☑️ SEO, Sematic HTML
     - ☑️ Computer Networking
