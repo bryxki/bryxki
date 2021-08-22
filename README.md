@@ -19,7 +19,7 @@
     - ☑️ Chart.Js, D3.Js, Visualize.Js
     - ☑️ Selenium, Jest, Mocha and Chai
 - 📚 Developer Tools:
-    - ☑️ Commandline, Git, Git Bash, Github, Azure DevOps Git Repository
+    - ☑️ Command Line, Git, Git Bash, Github, Azure DevOps Git Repository
     - ☑️ VSCode, Visual Studio, ReSharper, Postman
     - ☑️ Adobe Photoshop, Adobe Illustrator
     - ☑️ DBForge Studio, Microsoft SQL Server, MongoDB Compass, MongoDB Atlas
