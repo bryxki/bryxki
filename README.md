@@ -9,16 +9,29 @@
 
 ### I'm a Fullstack Web Developer.
 
-- 📚 Back End Technologies:
-    - ☑️ C#, ASP.Net
-    - ☑️ PHP, Laravel
-    - ☑️ Expressjs
-- 📚 Front End Technologies:
-    - ☑️ HTML5, CSS3, Bootstrap4, Javascript
+- 📚 Technologies:
+    - ☑️ HTML5, CSS3, Bootstrap 5, Javascript, ES6, JQuery
     - ☑️ React.Js, Redux, Next.Js
-    - ☑️ MERN stack
-    - 
-
+    - ☑️ VB.Net, C#, Java, PHP
+    - ☑️ ASP.Net, .NET Core, Laravel, Node.Js, Express.Js
+    - ☑️ MySQL, MariaDB, MSSQL, PostgreSQL, MongoDB
+    - ☑️ Entity Framework, LINQ, Sequilize ORM, Eloquent ORM
+    - ☑️ Chart.Js, D3.Js, Visualize.Js
+    - ☑️ REST API
+- 📚 Dev Tools:
+    - ☑️ Commandline, Git, Git Bash, Github, Azure DevOps Git Repository
+    - ☑️ VSCode, Visual Studio, ReSharper
+    - ☑️ Adobe Photoshop, Adobe Illustrator
+    - ☑️ DBForge Studio, Microsoft SQL Server, MongoDB Compass, MongoDB Atlas
+    - ☑️ SAP Crystal Reports, SAP Crystal Server, Jaspersoft Studio, JasperReports Server, Microsoft IIS Server
+- 📚 Productivity tools:
+    - ☑️ Microsoft Office / Office 365
+    - ☑️ Google Workspace
+    - ☑️ Google Sheets
+    - ☑️ Google Refine / OpenRefine
+    - ☑️ Google App Scripts
+    - ☑️ Slack Workspace
+    - ☑️ TeamViewer / AnyDesk
 ---
 
 ### Connect with me: 
