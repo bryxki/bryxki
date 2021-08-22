@@ -58,5 +58,5 @@
 
 ---
 
-  <img align="left" width="100%" alt="Bryxki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bryxki&theme=tokyonight&show_icons=true" />
+  <img align="left" width="100%" alt="Bryxki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bryxki&theme=merko&show_icons=true" />
 <br />
