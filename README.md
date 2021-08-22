@@ -37,7 +37,7 @@
     - ☑️ APIs, REST API
     - ☑️ AJAX, JSON
     - ☑️ Test Driven Development
-    - ☑️ Server Side Redering
+    - ☑️ Server Side Rendering
     - ☑️ SEO, Sematic HTML
     - ☑️ Business Reporting, Business Intellegence
     - ☑️ Computer Networking
