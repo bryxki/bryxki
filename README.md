@@ -22,7 +22,8 @@
     - ☑️ VSCode, Visual Studio, ReSharper
     - ☑️ Adobe Photoshop, Adobe Illustrator
     - ☑️ DBForge Studio, Microsoft SQL Server, MongoDB Compass, MongoDB Atlas
-    - ☑️ Microsoft IIS Server, SAP Crystal Reports, SAP Crystal Server, Jaspersoft Studio, JasperReports Server 
+    - ☑️ SAP Crystal Reports, SAP Crystal Server, Jaspersoft Studio, JasperReports Server
+    - ☑️ Microsoft IIS Server, XAMPP
 - 📚 Productivity tools:
     - ☑️ Microsoft Office / Office 365
     - ☑️ Google Workspace
