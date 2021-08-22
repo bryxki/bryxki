@@ -19,7 +19,7 @@
     - ☑️ Chart.Js, D3.Js, Visualize.Js
 - 📚 Developer Tools:
     - ☑️ Commandline, Git, Git Bash, Github, Azure DevOps Git Repository
-    - ☑️ VSCode, Visual Studio, ReSharper
+    - ☑️ VSCode, Visual Studio, ReSharper, Postman
     - ☑️ Adobe Photoshop, Adobe Illustrator
     - ☑️ DBForge Studio, Microsoft SQL Server, MongoDB Compass, MongoDB Atlas
     - ☑️ SAP Crystal Reports, SAP Crystal Server, Jaspersoft Studio, JasperReports Server
