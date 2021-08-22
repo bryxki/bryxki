@@ -21,7 +21,7 @@
 - 📚 Developer Tools:
     - ☑️ Command Line, Git, Git Bash, Github, Azure DevOps Git Repository
     - ☑️ VSCode, Visual Studio, ReSharper, Postman, Chrome Dev Tools
-    - ☑️ Adobe Photoshop, Adobe Illustrator
+    - ☑️ Adobe Photoshop, Adobe Illustrator, Canva
     - ☑️ DBForge Studio, Microsoft SQL Server, MongoDB Compass
     - ☑️ SAP Crystal Reports, SAP Crystal Server, Jaspersoft Studio, JasperReports Server
     - ☑️ Microsoft IIS Server, XAMPP
