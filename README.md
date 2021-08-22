@@ -20,7 +20,7 @@
     - ☑️ Selenium, Jest, Mocha and Chai
 - 📚 Developer Tools:
     - ☑️ Command Line, Git, Git Bash, Github, Azure DevOps Git Repository
-    - ☑️ VSCode, Visual Studio, ReSharper, Postman
+    - ☑️ VSCode, Visual Studio, ReSharper, Postman, Chrome Dev Tools
     - ☑️ Adobe Photoshop, Adobe Illustrator
     - ☑️ DBForge Studio, Microsoft SQL Server, MongoDB Compass, MongoDB Atlas
     - ☑️ SAP Crystal Reports, SAP Crystal Server, Jaspersoft Studio, JasperReports Server
