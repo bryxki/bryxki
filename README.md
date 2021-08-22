@@ -17,7 +17,7 @@
     - ☑️ MySQL, MariaDB, MSSQL, PostgreSQL, MongoDB
     - ☑️ Entity Framework, LINQ, Sequilize ORM, Eloquent ORM
     - ☑️ Chart.Js, D3.Js, Visualize.Js
-- 📚 Dev Tools:
+- 📚 Developer Tools:
     - ☑️ Commandline, Git, Git Bash, Github, Azure DevOps Git Repository
     - ☑️ VSCode, Visual Studio, ReSharper
     - ☑️ Adobe Photoshop, Adobe Illustrator
