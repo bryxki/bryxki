@@ -39,6 +39,7 @@
     - ☑️ Test Driven Development
     - ☑️ Server Side Redering
     - ☑️ SEO, Sematic HTML
+    - ☑️ Business Reporting, Business Intellegence
     - ☑️ Computer Networking
 ---
 
