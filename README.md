@@ -10,14 +10,13 @@
 ### I'm a Fullstack Web Developer.
 
 - 📚 Technologies:
-    - ☑️ HTML5, CSS3, Bootstrap 5, Javascript, ES6, JQuery
+    - ☑️ HTML5, CSS3, Bootstrap 5, Javascript, ES6, TypeScript, JQuery
     - ☑️ React.Js, Redux, Next.Js
     - ☑️ VB.Net, C#, Java, PHP
     - ☑️ ASP.Net, .NET Core, Laravel, Node.Js, Express.Js
     - ☑️ MySQL, MariaDB, MSSQL, PostgreSQL, MongoDB
     - ☑️ Entity Framework, LINQ, Sequilize ORM, Eloquent ORM
     - ☑️ Chart.Js, D3.Js, Visualize.Js
-    - ☑️ REST API
 - 📚 Dev Tools:
     - ☑️ Commandline, Git, Git Bash, Github, Azure DevOps Git Repository
     - ☑️ VSCode, Visual Studio, ReSharper
@@ -32,6 +31,12 @@
     - ☑️ Google App Scripts
     - ☑️ Slack Workspace
     - ☑️ TeamViewer / AnyDesk
+- 📚 Other Knowledge:
+    - ☑️ APIs, REST API
+    - ☑️ AJAX, JSON
+    - ☑️ Server Side Redering
+    - ☑️ SEO, Sematic HTML
+    - ☑️ Computer Networking
 ---
 
 ### Connect with me: 
