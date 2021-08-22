@@ -48,4 +48,9 @@
 [<img align="left" alt="bryan gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>](mailto:brianzkee870@gmail.com)
 [<img align="left" alt="bryan messenger" width="30px" src="https://img.icons8.com/fluent/50/000000/facebook-messenger--v2.png"/>](https://www.messenger.com/t/1705179259767645)
 
+<br>
+
+---
+
+  <img align="left" width="100%" alt="Bryxki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bryxki&theme=tokyonight&show_icons=true" />
 <br />
