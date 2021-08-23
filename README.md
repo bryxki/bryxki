@@ -38,7 +38,7 @@
     - ☑️ AJAX, JSON
     - ☑️ Test Driven Development
     - ☑️ Server Side Rendering
-    - ☑️ SEO, Sematic HTML
+    - ☑️ SEO, Semantic HTML
     - ☑️ Business Reporting, Business Intellegence
     - ☑️ Computer Networking
 ---
